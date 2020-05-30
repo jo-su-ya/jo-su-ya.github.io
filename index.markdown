@@ -5,4 +5,6 @@
 layout: page
 ---
 
-# JOSUYA HOLDING PAGE | WEBSITE COMING SOON
+# JOSUYA HOLDING PAGE
+
+Website coming soon.
