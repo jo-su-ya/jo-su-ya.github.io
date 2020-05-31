@@ -61,11 +61,12 @@ body main ul.gallery li img { width:250px; float:left; display: block ; margin-r
 body main ul.gallery li h3 { font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial; font-size: 30px;text-transform: capitalize; line-height: 40px;max-width: 75%; margin-bottom: 10px}
 body main ul.gallery li h4 { font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial; font-size:20px; text-transform: capitalize}
 
-body footer { border-top: 1.5px solid black;padding-top: 30px;margin-bottom: 120px; max-width: 600px }
+body footer { border-top: 1.5px solid black;padding-top: 20px;margin-bottom: 120px; max-width: 600px }
 body footer p { font-weight: bold }
 body footer form { margin-top: 5px; border: 1.5px solid black; display: inline-block}
 body footer form *:first-child { padding-left:15px}
 body footer form *:last-child { background:#000;font-weight: bold;color:white;padding: 10px; cursor: pointer}
+body footer li {padding-top: 15px; }
 
 .col2 { columns: 2 }
 .bullet { padding-left: 30px; border-left: 1.5px solid black }
