@@ -6,6 +6,6 @@ layout: home
 title: josuya
 ---
 
-## HOLDING PAGE
+## Zines
 
-Website coming soon.
+- [Vintage Music #1](/zines/vintage_music_one)
