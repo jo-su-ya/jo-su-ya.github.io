@@ -1,5 +1,5 @@
 ---
-title: Vintage Music #1 
+title: Vintage Music \#1
 layout: page
 permalink: /zines/vintage_music_one
 ---
