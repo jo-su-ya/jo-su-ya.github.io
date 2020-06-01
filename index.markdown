@@ -8,4 +8,4 @@ title: josuya
 
 ## Zines
 
-- [Vintage Music #1](/zines/vintage_music_one)
+- [Vintage Music - 1](/zines/vintage_music_one)
